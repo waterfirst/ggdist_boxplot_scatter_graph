@@ -1,4 +1,5 @@
 # ggdist_boxplot_scatter_graph
+![boxplot_scatter](https://user-images.githubusercontent.com/40909985/204297083-9ce6abd1-b94e-44ca-8f56-1d33146bc53f.jpg)
 
 
 library(ggdist)
